@@ -1,6 +1,6 @@
 <h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hello World.</h1>
 
-I'm Alan Santana😉, Front-End (React.js / React Native) Developer. Currently i'm studying .Net for Back-End.
+I'm Alan Santana😉, Front-End (React.js / React Native) Developer. Currently i'm studying Node.JS for Back-End.
 
 ### Tools I work upon : 🛠
 
