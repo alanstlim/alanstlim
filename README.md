@@ -1,6 +1,11 @@
 <h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hello World.</h1>
 
-I'm Alan Santana😉, Front-End (React.js / React Native) Developer. Currently i'm studying Node.JS for Back-End.
+I'm Alan Santana😉, a Front-End Developer, current focused in React Native and React.JS.
+I’m started my studies in 2012 with Java during my high school, and since that time I always had a passion for mobile,
+I’m investing most of my time in this. In 2019, I met React Native, and was delighted. I had an opportunity to work
+with the lib in end of 2020, and I had daily contact with deploy in App Store and Play Store. Current, I’m working with
+React Native using TypeScript, expanding my knowing about important development stages, besides giving support
+for React.JS team.
 
 ### Tools I work upon : 🛠
 
