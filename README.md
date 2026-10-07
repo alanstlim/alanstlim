@@ -1,29 +1,108 @@
-<h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hello World.</h1>
+<h1 align="center">Hi, I'm Alan Lima 👋</h1>
 
-I'm Alan Santana😉, a Front-End Developer, current focused in React Native and React.JS.
-I’m started my studies in 2012 with Java during my high school, and since that time I always had a passion for mobile,
-I’m investing most of my time in this. In 2019, I met React Native, and was delighted. I had an opportunity to work
-with the lib in end of 2020, and I had daily contact with deploy in App Store and Play Store. Current, I’m working with
-React Native using TypeScript, expanding my knowing about important development stages, besides giving support
-for React.JS team.
+<h3 align="center">
+  Senior Mobile Engineer | React Native | iOS & Android
+</h3>
 
-### Tools I work upon : 🛠
+<p align="center">
+  Building scalable, secure and reliable mobile applications with React Native and TypeScript.
+</p>
 
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react-native/react-native.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/dotnet/dotnet.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/spring-boot/spring-boot.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/android/android.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
+<p align="center">
+  📍 Toronto, Canada 🇨🇦
+</p>
 
+---
 
-### Stats Overview : :cyclone:
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=alanstlim&show_icons=true&count_private=true&hide=stars&include_all_commits=false&theme=material-palenight" /> <a href="">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alanstlim&langs_count=8&layout=compact&theme=material-palenight&hide=html,Tcl" />
-</a>
+## 👨‍💻 About Me
+
+I'm a **Senior Mobile Engineer** with 6+ years of professional software development experience, specializing in **React Native** and cross-platform mobile development for **iOS and Android**.
+
+My background includes projects across **healthcare, fintech, banking and e-commerce**, working on applications involving secure authentication, biometrics, payments, native integrations, automated testing and production releases.
+
+Currently, I work primarily with **React Native and TypeScript**, while also collaborating with native iOS, Android and backend technologies when needed.
+
+I also have previous experience in **technical leadership**, including architecture decisions, code reviews, technical interviews and mentoring developers.
+
+---
+
+## 🚀 What I'm Working With
+
+- 📱 React Native applications for iOS and Android
+- ⚛️ React Native, React.js and TypeScript
+- 🍎 Native iOS integrations
+- 🤖 Native Android integrations
+- 🧪 Automated testing with Jest, Maestro, JUnit and XCTest
+- 🔐 Mobile security, authentication and sensitive data
+- 🔄 CI/CD and mobile release pipelines
+- ☕ Java, Spring Boot and Quarkus backend integrations
+- 🏗️ Mobile architecture and reusable application platforms
+
+---
+
+## 🛠️ Tech Stack
+
+### Mobile
+
+![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![iOS](https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=apple&logoColor=white)
+![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
+![Swift](https://img.shields.io/badge/Swift-F05138?style=for-the-badge&logo=swift&logoColor=white)
+![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
+
+### Languages & Frameworks
+
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
+
+### Testing & Quality
+
+![Jest](https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white)
+![JUnit](https://img.shields.io/badge/JUnit-25A162?style=for-the-badge&logo=junit5&logoColor=white)
+![Maestro](https://img.shields.io/badge/Maestro-Mobile_Testing-blue?style=for-the-badge)
+
+### Tools & Cloud
+
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
+![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)
+
+---
+
+## 💼 Experience Highlights
+
+- 📱 Building and maintaining production React Native applications for **healthcare and fintech**
+- 🏦 Experience with banking features including **authentication, biometrics, PIX and secure financial data**
+- 🧩 Experience building and evolving **white-label mobile architectures**
+- 🧪 Designing automated testing strategies across JavaScript and native mobile layers
+- 🚀 Managing applications through **App Store and Google Play** release processes
+- 👥 Previous experience mentoring and supporting engineering teams
+- 🔗 Working across mobile and backend integrations using REST APIs and Java services
+
+---
+
+## 🌎 Currently
+
+- 📍 Based in **Toronto, Canada**
+- 🎓 MBA in **Information Systems Management**
+- 📱 Focused on **Mobile Engineering & React Native**
+- 🏗️ Interested in Mobile Architecture, Software Quality and Engineering Leadership
+
+---
+
+## 🤝 Let's Connect
+
+<p>
+  <a href="https://www.linkedin.com/in/alanstlim">
+    <img src="https://img.shields.io/badge/LinkedIn-Alan_Lima-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+
+  <a href="https://github.com/alanstlim">
+    <img src="https://img.shields.io/badge/GitHub-alanstlim-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+</p>
